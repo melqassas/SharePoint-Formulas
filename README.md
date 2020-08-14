@@ -1,4 +1,4 @@
-![SharePoint Formulas Repo](https://user-images.githubusercontent.com/49816567/90200782-a858e680-dde1-11ea-8d41-2bd3bda49263.png)
+![SharePoint Formulas Repo](https://user-images.githubusercontent.com/49816567/90200954-17363f80-dde2-11ea-9ab0-27dd5bc63861.png)
 
 
 # [SharePoint Formulas](https://spgeeks.devoworx.com/)
