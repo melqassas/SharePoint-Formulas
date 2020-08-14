@@ -1,0 +1,1 @@
+=IF(INT(Minutes/60)<10,"0"&INT(Minutes/60),INT(Minutes/60))&":"&IF(ROUND((((Minutes/60)-INT(Minutes/60))*60),0)<10,"0"&ROUND((((Minutes/60)-INT(Minutes/60))*60),0),ROUND((((Minutes/60)-INT(Minutes/60))*60),0))
