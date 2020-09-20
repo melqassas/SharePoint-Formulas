@@ -4,7 +4,7 @@
 
 # [Convert Numbers to Time in SharePoint Calculated Column](https://spgeeks.devoworx.com/convert-numbers-to-time-in-sharepoint/)
 
-This formula helps you coonvert numbers to time duration in SharePoint Calculated Column.
+This formula helps you convert numbers to time duration in SharePoint Calculated Column.
 
 ![Convert Numbers to Time in SharePoint Calculated Column](https://spgeeks.devoworx.com/wp-content/uploads/2018/10/convert-numbers-to-time-in-sharepoint-calculated-field.png)
 
